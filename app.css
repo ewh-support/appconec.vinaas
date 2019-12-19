@@ -21721,7 +21721,19 @@ iframe#viAd {
 }
 .fa-file-text:before {
     content: "\F15C";
-  }
+}
+.fa-filter:before {
+    content: "\F0B0";
+}
+.fa-star:before {
+    content: "\F005";
+}
+.fa-money:before {
+    content: "\F0D6";
+}
+.fa-calendar:before {
+    content: "\F073";
+}
 /* Your app styles here */
 ::-webkit-scrollbar {
     display: none;
@@ -22046,6 +22058,21 @@ img{
     left: 0;
     opacity: 0;
     cursor: pointer;
+}
+.style-item-after .item-after{
+    margin-left: 0px !important;
+    padding-left: 0px !important;
+}
+.smart-select-page .page-content{
+    padding-top: 91px;
+}
+.style-text-search .item-title{
+    font-family: 'Roboto-Light' !important;
+    font-size: 15px !important;
+    font-weight: normal !important;
+}
+.checked {
+    color: orange;
 }
 
 .title {
