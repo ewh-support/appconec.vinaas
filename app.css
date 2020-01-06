@@ -21734,6 +21734,15 @@ iframe#viAd {
 .fa-calendar:before {
     content: "\F073";
 }
+.fa-eye-slash:before {
+    content: "\F070";
+}
+.fa-pencil:before {
+    content: "\F040";
+}
+.fa-heart-o:before {
+    content: "\F08A";
+}
 
 /* Your app styles here */
 ::-webkit-scrollbar {
@@ -21836,7 +21845,7 @@ img{
 .triangle-topright {
     width: 0;
     height: 0;
-    border-top: 40px solid red;
+    border-top: 40px solid orange;
     border-left: 40px solid transparent;
     position: absolute;
     top: 0;
@@ -22099,7 +22108,11 @@ img{
     width: 100%;
     opacity: 0;
     cursor: pointer;
-  }
+}
+.no-padding-toolbar-inner .toolbar-inner{
+    padding-left: 0px;
+    padding-right: 0px;
+}
 
 .title {
     color: #fff;
