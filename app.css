@@ -21743,6 +21743,12 @@ iframe#viAd {
 .fa-heart-o:before {
     content: "\F08A";
 }
+.fa-registered:before {
+    content: "\F25D";
+}
+.fa-usd:before {
+    content: "\F155";
+}
 
 /* Your app styles here */
 ::-webkit-scrollbar {
@@ -22112,6 +22118,15 @@ img{
 .no-padding-toolbar-inner .toolbar-inner{
     padding-left: 0px;
     padding-right: 0px;
+}
+.style-fs-input input{
+    font-size: 15px !important;
+}
+.no-padding-inner .item-content{
+    padding-left: 0px;
+}
+.style-page .page-content{
+    padding-top: 48px;
 }
 
 .title {
