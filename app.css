@@ -21749,6 +21749,12 @@ iframe#viAd {
 .fa-usd:before {
     content: "\F155";
 }
+.fa-ellipsis-v:before {
+    content: "\F142";
+}
+.fa-trash-o:before {
+    content: "\F014";
+}
 
 /* Your app styles here */
 ::-webkit-scrollbar {
