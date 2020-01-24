@@ -22134,6 +22134,9 @@ img{
 .style-page .page-content{
     padding-top: 48px;
 }
+.csstransition {
+    transition: 0.5s all cubic-bezier(0.39, 0.575, 0.565, 1);
+  }
 
 .title {
     color: #fff;
