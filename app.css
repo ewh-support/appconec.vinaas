@@ -22136,7 +22136,11 @@ img{
 }
 .csstransition {
     transition: 0.5s all cubic-bezier(0.39, 0.575, 0.565, 1);
-  }
+}
+.style-item-after .item-after{
+    margin-left: 0px;
+    padding-left: 0px;
+}
 
 .title {
     color: #fff;
