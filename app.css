@@ -21755,6 +21755,12 @@ iframe#viAd {
 .fa-trash-o:before {
     content: "\F014";
 }
+.fa-commenting:before {
+    content: "\F27A";
+}
+.fa-level-up:before {
+    content: "\F148";
+}
 
 /* Your app styles here */
 ::-webkit-scrollbar {
