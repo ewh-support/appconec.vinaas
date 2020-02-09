@@ -21761,7 +21761,9 @@ iframe#viAd {
 .fa-level-up:before {
     content: "\F148";
 }
-
+.fa-heart:before {
+    content: "\F004";
+}
 
 /* Your app styles here */
 ::-webkit-scrollbar {
