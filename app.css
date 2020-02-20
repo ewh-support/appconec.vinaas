@@ -21764,6 +21764,9 @@ iframe#viAd {
 .fa-heart:before {
     content: "\F004";
 }
+.fa-share-alt-square:before {
+    content: "\F1E1";
+}
 
 /* Your app styles here */
 ::-webkit-scrollbar {
