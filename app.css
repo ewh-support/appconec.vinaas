@@ -21770,6 +21770,9 @@ iframe#viAd {
 .fa-forward:before {
     content: "\F04E";
 }
+.fa-info-circle:before {
+    content: "\F05A";
+}
 
 /* Your app styles here */
 ::-webkit-scrollbar {
@@ -22161,7 +22164,9 @@ img{
     margin-top: 48px !important;
     height: auto !important;
 }
-
+.fa-thumb-tack:before {
+    content: "\F08D";
+}
 
 .title {
     color: #fff;
