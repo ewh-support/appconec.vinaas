@@ -21788,6 +21788,16 @@ iframe#viAd {
 .fa-arrow-left:before {
     content: "\F060";
 }
+.fa-flag:before {
+    content: "\F024";
+}
+.fa-warning:before,
+.fa-exclamation-triangle:before {
+    content: "\F071";
+}
+.fa-hand-o-right:before {
+    content: "\F0A4";
+}
 /* Your app styles here */
 ::-webkit-scrollbar {
     display: none;
@@ -21798,6 +21808,9 @@ iframe#viAd {
 }
 .navbar-inner {
     height: 48px;
+}
+.dialog-text{
+    text-align: justify;
 }
 .style-list-item > ul > li>.item-link{
     background: #009688; 
